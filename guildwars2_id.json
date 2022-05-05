@@ -1,0 +1,231 @@
+﻿{
+    "Tempaltes": [
+        "{} ahead",
+        "No {} ahead",
+        "{} required ahead",
+        "Try {}",
+        "Embrace {}",
+        "There's no escaping {}",
+        "Nothing but {} here",
+        "Remember {}",
+        "Reeks of {}",
+        "Be wary of {}",
+        "Time for {}",
+        "Maybe {} was an illusion all along"
+    ],
+
+    "Conjunctions": [
+        " and",
+        " but",
+        " or",
+        " except",
+        " therefore",
+        " eventually",
+        ","
+    ],
+
+    "WordCategories": {
+        "Creatures": [
+            "enemy",
+            "weak foe",
+            "strong foe",
+
+            "animal",
+            "cat",
+            "dog",
+            "kitten",
+            "puppy",
+            "bird",
+            "horse",
+            "insect",
+
+            "dragon",
+            "Elder Dragon",
+
+            "veteran creature",
+            "elite creature",
+            "champion creature",
+            "legendary creature",
+
+            "monstrosity",
+            "beast",
+            "centaur",
+            "giant",
+            "raptor",
+            "karka",
+            "ghost",
+
+            "boss",
+            "sniper",
+            "monarch",
+            "outsider",
+            "god"
+        ],
+
+        "People": [
+            "man",
+            "woman",
+
+            "human",
+            "norn",
+            "sylvari",
+            "asura",
+            "charr",
+            "dwarf",
+            "tengu",
+            "largos",
+            "quaggan",
+
+            "scholar",
+            "adventurer",
+            "soldier",
+
+            "elementalist",
+            "engineer",
+            "guardian",
+            "mesmer",
+            "necromancer",
+            "ranger",
+            "revenant",
+            "thief",
+            "warrior",
+
+            "mother",
+            "father",
+
+            "ally",
+            "enemy",
+            "dear friend",
+            "charmer",
+
+            "duo",
+            "trio",
+            "group",
+
+            "guild",
+            "squad",
+            "raid squad",
+            "party"
+        ],
+
+        "Objectives": [
+            "waypoint",
+            "point of interest",
+            "vista",
+            "hero challenge",
+            "mastery point",
+            "renown heart",
+
+            "commune",
+            "point control",
+
+            "event",
+            "meta event",
+            "world boss",
+            "guild mission"
+        ],
+
+        "Battle Effects": [
+            "boon",
+            "condition",
+            "condi cleanse",
+            "boon strip",
+            "aegis",
+            "stability",
+            "stealth",
+            "superspeed",
+            "invulnerability",
+
+            "close-range fight",
+            "long-range fight",
+            "burst",
+            "area of effect",
+            "crowd control",
+            "exposed effect",
+
+            "stunbreak",
+            "healing",
+            "sustain",
+            "barrier",
+            "combo field",
+            "combo finisher",
+            "combo effect",
+            "food"
+        ],
+
+        "Actions": [
+            "walking",
+            "dashing",
+            "swimming",
+            "dodging",
+            "jumping",
+            "dodge jump",
+
+            "gliding",
+            "flying",
+            "mounting",
+            "sailing",
+
+            "fishing",
+
+            "attacking",
+            "cleaving",
+            "strafing",
+            "blocking",
+            "weapon swap",
+            "reviving",
+            "finisher"
+        ],
+
+        "Things": [
+            "trap",
+            "illusion",
+            "seige",
+
+            "message",
+
+            "plant",
+            "tree",
+
+            "bloodstone",
+
+            "weapon",
+            "armor",
+            "item",
+            "novelty"
+        ],
+
+        "Elements": [
+            "water",
+            "fire",
+            "earth",
+            "wind",
+            "chaos",
+            "ice",
+            "plant",
+            "lightning",
+            "void",
+            "arcane"
+        ],
+
+        "Concepts": [
+            "life",
+            "death",
+            "oblivion",
+            "void",
+            "secret",
+            "feelings",
+            "sadness"
+        ],
+
+        "Musings": [
+            "all is vain",
+            "don't you dare!",
+            "do it!",
+            "praise the six!",
+            "Excelsior!",
+            "I can't wait!",
+            "stop!"
+        ]
+    }
+}
