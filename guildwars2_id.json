@@ -1,231 +1,345 @@
 ﻿{
-    "Tempaltes": [
-        "{} ahead",
-        "No {} ahead",
-        "{} required ahead",
-        "Try {}",
-        "Embrace {}",
-        "There's no escaping {}",
-        "Nothing but {} here",
-        "Remember {}",
-        "Reeks of {}",
-        "Be wary of {}",
-        "Time for {}",
-        "Maybe {} was an illusion all along"
-    ],
+  "TypeId": "guildwars2",
+  "Name": "Guild Wars 2",
 
-    "Conjunctions": [
-        " and",
-        " but",
-        " or",
-        " except",
-        " therefore",
-        " eventually",
-        ","
-    ],
+  "Tempaltes": [
+    "{} ahead",
+    "No {} ahead",
+    "{} required ahead",
+    "No {} required ahead",
+    "Try {}",
+    "You must embrace {}",
+    "There's no escaping {}",
+    "Nothing but {} here",
+    "Get ready for {}",
+    "Remember {}",
+    "Stinks of {}",
+    "Be wary of {}",
+    "Time for {}",
+    "{}",
+    "{}...",
+    "{}?",
+    "{}!",
+    "Fear not this {}",
+    "Praise the {}!",
+    "Maybe {} was an illusion all along",
+    "It's player versus {}",
+    "By Ogden's hammer, what {}",
+    "That's quality {}!",
+    "Bash the {}, smash the {}",
+    "Unleash the {}!"
+  ],
 
-    "WordCategories": {
-        "Creatures": [
-            "enemy",
-            "weak foe",
-            "strong foe",
+  "Conjunctions": [
+    " and",
+    " but",
+    " or",
+    " except",
+    " therefore",
+    " because",
+    " eventually",
+    " if",
+    " in other words",
+    ","
+  ],
 
-            "animal",
-            "cat",
-            "dog",
-            "kitten",
-            "puppy",
-            "bird",
-            "horse",
-            "insect",
+  "WordCategories": [
+    {
+      "Key": "Creatures",
+      "Words": [
+        "enemy",
+        "weak foe",
+        "strong foe",
 
-            "dragon",
-            "Elder Dragon",
+        "animal",
+        "cat",
+        "dog",
+        "kitten",
+        "puppy",
+        "bird",
+        "horse",
+        "insect",
+        "fish",
 
-            "veteran creature",
-            "elite creature",
-            "champion creature",
-            "legendary creature",
+        "dragon",
+        "Elder Dragon",
+        "dragon minion",
 
-            "monstrosity",
-            "beast",
-            "centaur",
-            "giant",
-            "raptor",
-            "karka",
-            "ghost",
+        "veteran creature",
+        "elite creature",
+        "champion creature",
+        "legendary creature",
 
-            "boss",
-            "sniper",
-            "monarch",
-            "outsider",
-            "god"
-        ],
+        "monstrosity",
+        "beast",
+        "centaur",
+        "giant",
+        "raptor",
+        "karka",
+        "ghost",
+        "lich",
+        "anomaly",
 
-        "People": [
-            "man",
-            "woman",
+        "boss",
+        "sniper",
+        "monarch",
+        "outsider",
+        "god"
+      ]
+    },
 
-            "human",
-            "norn",
-            "sylvari",
-            "asura",
-            "charr",
-            "dwarf",
-            "tengu",
-            "largos",
-            "quaggan",
+    {
+      "Key": "People",
+      "Words": [
+        "player",
+        "NPC",
 
-            "scholar",
-            "adventurer",
-            "soldier",
+        "man",
+        "woman",
 
-            "elementalist",
-            "engineer",
-            "guardian",
-            "mesmer",
-            "necromancer",
-            "ranger",
-            "revenant",
-            "thief",
-            "warrior",
+        "human",
+        "norn",
+        "sylvari",
+        "asura",
+        "charr",
+        "dwarf",
+        "tengu",
+        "largos",
+        "quaggan",
+        "skritt",
 
-            "mother",
-            "father",
+        "scholar",
+        "adventurer",
+        "soldier",
 
-            "ally",
-            "enemy",
-            "dear friend",
-            "charmer",
+        "elementalist",
+        "engineer",
+        "guardian",
+        "mesmer",
+        "necromancer",
+        "ranger",
+        "revenant",
+        "thief",
+        "warrior",
 
-            "duo",
-            "trio",
-            "group",
+        "mother",
+        "father",
 
-            "guild",
-            "squad",
-            "raid squad",
-            "party"
-        ],
+        "ally",
+        "enemy",
+        "dear friend",
+        "charmer",
 
-        "Objectives": [
-            "waypoint",
-            "point of interest",
-            "vista",
-            "hero challenge",
-            "mastery point",
-            "renown heart",
+        "duo",
+        "trio",
+        "group",
 
-            "commune",
-            "point control",
+        "world",
+        "guild",
+        "squad",
+        "raid squad",
+        "party"
+      ]
+    },
 
-            "event",
-            "meta event",
-            "world boss",
-            "guild mission"
-        ],
+    {
+      "Key": "Objectives",
+      "Words": [
+        "waypoint",
+        "point of interest",
+        "vista",
+        "hero challenge",
+        "mastery point",
+        "renown heart",
 
-        "Battle Effects": [
-            "boon",
-            "condition",
-            "condi cleanse",
-            "boon strip",
-            "aegis",
-            "stability",
-            "stealth",
-            "superspeed",
-            "invulnerability",
+        "commune",
+        "point control",
 
-            "close-range fight",
-            "long-range fight",
-            "burst",
-            "area of effect",
-            "crowd control",
-            "exposed effect",
+        "event",
+        "meta event",
+        "world boss",
+        "guild mission",
+        "jumping puzzle",
+        "dungeon",
+        "fractal",
+        "raid",
+        "strike mission"
+      ]
+    },
 
-            "stunbreak",
-            "healing",
-            "sustain",
-            "barrier",
-            "combo field",
-            "combo finisher",
-            "combo effect",
-            "food"
-        ],
+    {
+      "Key": "Battle Effects/Tactics",
+      "Words": [
+        "boon",
+        "condition",
+        "condi cleanse",
+        "boon strip",
+        "aegis",
+        "stability",
+        "stealth",
+        "superspeed",
+        "invulnerability",
 
-        "Actions": [
-            "walking",
-            "dashing",
-            "swimming",
-            "dodging",
-            "jumping",
-            "dodge jump",
+        "close-range fight",
+        "long-range fight",
+        "burst",
+        "area of effect",
+        "crowd control",
+        "exposed effect",
+        "sticking together",
+        "spreading out",
 
-            "gliding",
-            "flying",
-            "mounting",
-            "sailing",
+        "reflect",
+        "unblockable",
 
-            "fishing",
+        "stunbreak",
+        "healing",
+        "sustain",
+        "barrier",
+        "combo field",
+        "combo finisher",
+        "combo effect",
+        "food"
+      ]
+    },
 
-            "attacking",
-            "cleaving",
-            "strafing",
-            "blocking",
-            "weapon swap",
-            "reviving",
-            "finisher"
-        ],
+    {
+      "Key": "Actions",
+      "Words": [
+        "walking",
+        "dashing",
+        "swimming",
+        "dodging",
+        "jumping",
+        "dodge jump",
+        "strafing",
 
-        "Things": [
-            "trap",
-            "illusion",
-            "seige",
+        "gliding",
+        "flying",
+        "mounting",
+        "sailing",
 
-            "message",
+        "fishing",
 
-            "plant",
-            "tree",
+        "attacking",
+        "cleaving",
+        "blocking",
+        "weapon swap",
+        "reviving",
+        "finisher"
+      ]
+    },
 
-            "bloodstone",
+    {
+      "Key": "Things/Places",
+      "Words": [
+        "environment",
+        "night",
+        "day",
+        "bloodstone",
 
-            "weapon",
-            "armor",
-            "item",
-            "novelty"
-        ],
+        "road",
+        "hidden path",
+        "dead end",
+        "plant",
+        "tree",
+        "hole",
+        "trap",
+        "illusion",
+        "seige",
+        "message",
 
-        "Elements": [
-            "water",
-            "fire",
-            "earth",
-            "wind",
-            "chaos",
-            "ice",
-            "plant",
-            "lightning",
-            "void",
-            "arcane"
-        ],
+        "mountain",
+        "river",
+        "lake",
+        "bog",
+        "mountain",
+        "valley",
+        "cliff",
+        "waterside",
+        "nest",
 
-        "Concepts": [
-            "life",
-            "death",
-            "oblivion",
-            "void",
-            "secret",
-            "feelings",
-            "sadness"
-        ],
+        "treasure chest",
+        "weapon",
+        "armor",
+        "item",
+        "loot",
+        "novelty"
+      ]
+    },
+    {
+      "Key": "Orientations",
+      "Words": [
+        "ahead",
+        "behind",
+        "left",
+        "right",
+        "up",
+        "down",
+        "below",
+        "above"
+      ]
+    },
+    {
+      "Key": "Body Parts",
+      "Words": [
+        "head",
+        "stomach",
+        "back",
+        "arms",
+        "legs",
+        "feet",
+        "rump",
+        "tail",
+        "fangs",
+        "claws",
+        "ears",
+        "chest"
+      ]
+    },
 
-        "Musings": [
-            "all is vain",
-            "don't you dare!",
-            "do it!",
-            "praise the six!",
-            "Excelsior!",
-            "I can't wait!",
-            "stop!"
-        ]
+    {
+      "Key": "Elements",
+      "Words": [
+        "water",
+        "fire",
+        "earth",
+        "wind",
+        "chaos",
+        "ice",
+        "plant",
+        "lightning",
+        "void",
+        "arcane"
+      ]
+    },
+
+    {
+      "Key": "Concepts",
+      "Words": [
+        "skill",
+        "life",
+        "death",
+        "oblivion",
+        "void",
+        "secret",
+        "feelings",
+        "sadness"
+      ]
+    },
+
+    {
+      "Key": "Musings",
+      "Words": [
+        "all is vain",
+        "don't you dare!",
+        "do it!",
+        "praise the Six!",
+        "Excelsior!",
+        "I can't wait!",
+        "stop!",
+        "you're kidding, right?"
+      ]
     }
+  ]
 }
