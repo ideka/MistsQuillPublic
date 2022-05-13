@@ -8,6 +8,8 @@
     "{} required ahead",
     "No {} required ahead",
     "Try {}",
+    "Seek {}",
+    "If only I had a {}...",
     "You must embrace {}",
     "There's no escaping {}",
     "Nothing but {} here",
@@ -16,13 +18,16 @@
     "Stinks of {}",
     "Be wary of {}",
     "Time for {}",
+    "Too much {}",
+    "Not enough {}",
+    "I can't take {} anymore!",
     "{}",
     "{}...",
     "{}?",
     "{}!",
     "Fear not this {}",
     "Praise the {}!",
-    "Maybe {} was an illusion all along",
+    "Maybe {} was an illusion all along...",
     "It's player versus {}",
     "By Ogden's hammer, what {}",
     "That's quality {}!",
@@ -38,7 +43,6 @@
     " therefore",
     " because",
     " eventually",
-    " if",
     " in other words",
     ","
   ],
@@ -57,10 +61,38 @@
         "kitten",
         "puppy",
         "bird",
-        "horse",
-        "insect",
+        "arachnid",
         "fish",
+        "bear",
+        "ooze",
 
+        "saurian creature",
+        "amphibian creature",
+        "rodent creature",
+        "reptilian creature",
+        "elemental creature",
+        "aquatic creature",
+        "plant creature",
+        "flying creature",
+        "insectoid creature",
+        "fungal creature",
+        "nightmarish creature",
+        "beast of burden",
+
+        "monstrosity",
+        "beast",
+        "winged beast",
+        "man-beast",
+        "giant",
+        "ghost",
+        "lich",
+        "anomaly",
+
+        "construct",
+        "ancient being",
+        "demon",
+
+        "wyvern",
         "dragon",
         "Elder Dragon",
         "dragon minion",
@@ -70,21 +102,12 @@
         "champion creature",
         "legendary creature",
 
-        "monstrosity",
-        "beast",
-        "centaur",
-        "giant",
-        "raptor",
-        "karka",
-        "ghost",
-        "lich",
-        "anomaly",
-
         "boss",
         "sniper",
         "monarch",
         "outsider",
-        "god"
+        "god",
+        "spirit of the wild"
       ]
     },
 
@@ -102,11 +125,6 @@
         "sylvari",
         "asura",
         "charr",
-        "dwarf",
-        "tengu",
-        "largos",
-        "quaggan",
-        "skritt",
 
         "scholar",
         "adventurer",
@@ -128,7 +146,19 @@
         "ally",
         "enemy",
         "dear friend",
+        "rival",
         "charmer",
+        "repulsive sort",
+        "kind sort",
+        "evil sort",
+        "brutish sort",
+        "brutish sort",
+
+        "short sort",
+        "thin sort",
+        "fat sort",
+        "looker",
+        "ugly sort",
 
         "duo",
         "trio",
@@ -143,7 +173,7 @@
     },
 
     {
-      "Key": "Objectives",
+      "Key": "Objectives/Services",
       "Words": [
         "waypoint",
         "point of interest",
@@ -154,6 +184,13 @@
 
         "commune",
         "point control",
+        "mushroom",
+        "updraft",
+        "ley line",
+        "teleport",
+        "thermal tube",
+        "workbench",
+        "zip line",
 
         "event",
         "meta event",
@@ -163,7 +200,23 @@
         "dungeon",
         "fractal",
         "raid",
-        "strike mission"
+        "strike mission",
+
+        "harvesting node",
+        "logging node",
+        "mining node",
+        "fishing hole",
+        "gathering node",
+
+        "bank",
+        "trading post",
+        "guild bank",
+        "merchant",
+        "Mystic Forge",
+        "repair anvil",
+        "aesthetician",
+        "crafting station",
+        "asura gate"
       ]
     },
 
@@ -190,7 +243,7 @@
         "spreading out",
 
         "reflect",
-        "unblockable",
+        "unblockable attack",
 
         "stunbreak",
         "healing",
@@ -213,12 +266,17 @@
         "jumping",
         "dodge jump",
         "strafing",
+        "emote",
 
         "gliding",
         "flying",
         "mounting",
         "sailing",
 
+        "harvesting",
+        "logging",
+        "mining",
+        "gathering",
         "fishing",
 
         "attacking",
@@ -236,7 +294,11 @@
         "environment",
         "night",
         "day",
-        "bloodstone",
+        "clear sky",
+        "rain",
+        "storm",
+        "mist",
+        "snow",
 
         "road",
         "hidden path",
@@ -247,7 +309,10 @@
         "trap",
         "illusion",
         "seige",
+        "artillery",
         "message",
+        "bloodstone",
+        "bonfire",
 
         "mountain",
         "river",
@@ -291,8 +356,6 @@
         "feet",
         "rump",
         "tail",
-        "fangs",
-        "claws",
         "ears",
         "chest"
       ]
@@ -324,7 +387,13 @@
         "void",
         "secret",
         "feelings",
-        "sadness"
+        "madness",
+        "sadness",
+        "love",
+        "dream",
+        "nightmare",
+        "memories",
+        "Eternal Alchemy"
       ]
     },
 
@@ -338,7 +407,9 @@
         "Excelsior!",
         "I can't wait!",
         "stop!",
-        "you're kidding, right?"
+        "you're kidding, right?",
+        "too rich for my blood",
+        "still standing!"
       ]
     }
   ]
