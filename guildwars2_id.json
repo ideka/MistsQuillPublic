@@ -1,6 +1,6 @@
 ﻿{
   "TypeId": "guildwars2",
-  "Name": "Guild Wars 2",
+  "Name": "Guild Wars 2 (WIP)",
 
   "Tempaltes": [
     "{} ahead",
@@ -9,6 +9,7 @@
     "No {} required ahead",
     "Try {}",
     "Seek {}",
+    "Didn't expect {}",
     "If only I had a {}...",
     "You must embrace {}",
     "There's no escaping {}",
@@ -21,6 +22,7 @@
     "Too much {}",
     "Not enough {}",
     "I can't take {} anymore!",
+    "Take good care of {}",
     "{}",
     "{}...",
     "{}?",
@@ -43,6 +45,7 @@
     " therefore",
     " because",
     " eventually",
+    " in that case",
     " in other words",
     ","
   ],
@@ -65,10 +68,10 @@
         "fish",
         "bear",
         "ooze",
+        "rodent",
 
         "saurian creature",
         "amphibian creature",
-        "rodent creature",
         "reptilian creature",
         "elemental creature",
         "aquatic creature",
@@ -152,7 +155,7 @@
         "kind sort",
         "evil sort",
         "brutish sort",
-        "brutish sort",
+        "gentle sort",
 
         "short sort",
         "thin sort",
@@ -201,6 +204,7 @@
         "fractal",
         "raid",
         "strike mission",
+        "diving goggles",
 
         "harvesting node",
         "logging node",
@@ -278,13 +282,19 @@
         "mining",
         "gathering",
         "fishing",
+        "fighting",
+        "role playing",
+        "idling",
 
         "attacking",
         "cleaving",
         "blocking",
         "weapon swap",
         "reviving",
-        "finisher"
+        "finisher",
+        "teleporting",
+        "gambling",
+        "diving"
       ]
     },
 
@@ -329,7 +339,11 @@
         "armor",
         "item",
         "loot",
-        "novelty"
+        "novelty",
+        "chair",
+        "coin",
+        "currency",
+        "decoration"
       ]
     },
     {
@@ -349,6 +363,7 @@
       "Key": "Body Parts",
       "Words": [
         "head",
+        "chest",
         "stomach",
         "back",
         "arms",
@@ -356,8 +371,7 @@
         "feet",
         "rump",
         "tail",
-        "ears",
-        "chest"
+        "ears"
       ]
     },
 
@@ -390,10 +404,16 @@
         "madness",
         "sadness",
         "love",
+        "horror",
         "dream",
         "nightmare",
         "memories",
-        "Eternal Alchemy"
+        "Eternal Alchemy",
+
+        "luck",
+        "random chance",
+        "good fortune",
+        "misfortune"
       ]
     },
 
@@ -407,9 +427,13 @@
         "Excelsior!",
         "I can't wait!",
         "stop!",
+        "keep trying",
+        "give it up",
+        "what have you done?",
         "you're kidding, right?",
         "too rich for my blood",
-        "still standing!"
+        "still standing!",
+        "wha-? no!"
       ]
     }
   ]
