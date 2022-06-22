@@ -34,7 +34,9 @@
     "By Ogden's hammer, what {}",
     "That's quality {}!",
     "Bash the {}, smash the {}",
-    "Unleash the {}!"
+    "Unleash the {}!",
+    "There's no conclusion more natural than {}",
+    "Your Mad King says, {}!"
   ],
 
   "Conjunctions": [
@@ -323,6 +325,7 @@
         "message",
         "bloodstone",
         "bonfire",
+        "festival",
 
         "mountain",
         "river",
@@ -343,7 +346,8 @@
         "chair",
         "coin",
         "currency",
-        "decoration"
+        "decoration",
+        "collectable"
       ]
     },
     {
@@ -400,17 +404,20 @@
         "oblivion",
         "void",
         "secret",
-        "feelings",
-        "madness",
-        "sadness",
-        "love",
-        "horror",
         "dream",
         "nightmare",
         "memories",
         "Eternal Alchemy",
 
-        "luck",
+        "feelings",
+        "madness",
+        "sadness",
+        "love",
+        "horror",
+        "disappointment",
+
+        "daily",
+        "pure luck",
         "random chance",
         "good fortune",
         "misfortune"
@@ -420,6 +427,8 @@
     {
       "Key": "Musings",
       "Words": [
+        "here",
+        "not here",
         "all is vain",
         "don't you dare!",
         "do it!",
@@ -427,13 +436,15 @@
         "Excelsior!",
         "I can't wait!",
         "stop!",
+        "be quiet already!",
         "keep trying",
         "give it up",
         "what have you done?",
         "you're kidding, right?",
         "too rich for my blood",
         "still standing!",
-        "wha-? no!"
+        "wha-? no!",
+        "are you quite touched?"
       ]
     }
   ]
