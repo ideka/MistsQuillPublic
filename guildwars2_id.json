@@ -121,6 +121,7 @@
       "Words": [
         "player",
         "NPC",
+        "bookah",
 
         "man",
         "woman",
@@ -327,7 +328,6 @@
         "bonfire",
         "festival",
 
-        "mountain",
         "river",
         "lake",
         "bog",
@@ -404,6 +404,7 @@
         "oblivion",
         "void",
         "secret",
+        "deception",
         "dream",
         "nightmare",
         "memories",
