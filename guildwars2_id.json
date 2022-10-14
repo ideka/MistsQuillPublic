@@ -1,8 +1,8 @@
-﻿{
+{
   "TypeId": "guildwars2",
-  "Name": "Guild Wars 2 (WIP)",
+  "Name": "Guild Wars 2",
 
-  "Tempaltes": [
+  "Templates": [
     "{} ahead",
     "No {} ahead",
     "{} required ahead",
@@ -10,6 +10,7 @@
     "Try {}",
     "Seek {}",
     "Didn't expect {}",
+    "Of course it was {}",
     "If only I had a {}...",
     "You must embrace {}",
     "There's no escaping {}",
@@ -203,6 +204,8 @@
         "world boss",
         "guild mission",
         "jumping puzzle",
+        "adventure",
+        "race course",
         "dungeon",
         "fractal",
         "raid",
@@ -266,8 +269,9 @@
     {
       "Key": "Actions",
       "Words": [
+        "interacting",
         "walking",
-        "dashing",
+        "running",
         "swimming",
         "dodging",
         "jumping",
@@ -430,6 +434,7 @@
       "Words": [
         "here",
         "not here",
+        "well done",
         "all is vain",
         "don't you dare!",
         "do it!",
