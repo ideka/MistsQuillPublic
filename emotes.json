@@ -34,7 +34,8 @@
     "Thanks",
     "Threaten",
     "Wave",
-    "Yes"
+    "Yes",
+    "Serve"
   ],
 
   "Locales": {
@@ -74,7 +75,8 @@
         "Thanks": "Thanks",
         "Threaten": "Threaten",
         "Wave": "Wave",
-        "Yes": "Yes"
+        "Yes": "Yes",
+        "Serve": "Serve"
       }
     },
 
